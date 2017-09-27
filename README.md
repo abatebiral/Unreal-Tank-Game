@@ -14,6 +14,7 @@ are likely to change.
 Our project has just started. As such, we have several basic tasks that need to
 be finished:
 
-- [ ] Have the git pipeline completely set up in both of our machines.
-- [ ] Create the project in Unreal and commit it.
+- [x] Have the git pipeline completely set up in both of our machines.
+- [x] Create the project in Unreal and commit it.
+- [ ] Set up the basic game terrain.
 - [ ] Finish the design document.
