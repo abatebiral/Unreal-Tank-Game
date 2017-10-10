@@ -16,5 +16,9 @@ be finished:
 
 - [x] Have the git pipeline completely set up in both of our machines.
 - [x] Create the project in Unreal and commit it.
-- [ ] Set up the basic game terrain.
+- [x] Set up the basic game terrain.
+- [ ] Create a basic tank model and add it in as an actor.
+- [ ] Create a basic tank control scheme.
+- [ ] Implement shooting and damage.
+- [ ] Create a HUD that shows how damaged the tank is, how much ammo it still has and such.
 - [ ] Finish the design document.
